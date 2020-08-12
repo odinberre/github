@@ -1,2 +1,2 @@
-Informasjon til brukere av denne koden
+Informasjon til brukere av denne koden \n
 Oppdatering
