@@ -1,1 +1,1 @@
-Informasjon til brukere av denne koden. Oppdaering.
+hei. Informasjon til brukere av denne koden. Oppdatering.
