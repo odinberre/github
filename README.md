@@ -6,5 +6,5 @@
 
 _Dette er kursiv skrift_
 
-*Dette er fet skrift*
+**Dette er fet skrift**
 
